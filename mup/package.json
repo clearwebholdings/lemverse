@@ -54,7 +54,7 @@
   "dependencies": {
     "@zodern/nodemiral": "^1.3.0",
     "archiver": "3.0.x",
-    "async": "^3.0.0",
+    "async": "^3.2.3",
     "cjson": "0.5.x",
     "colors": "1.3.x",
     "rimraf": "2.x.x",
