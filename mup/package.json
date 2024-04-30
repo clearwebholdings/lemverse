@@ -52,7 +52,7 @@
     "url": "https://github.com/arunoda/meteor-up/issues"
   },
   "dependencies": {
-    "@zodern/nodemiral": "^1.3.0",
+    "@zodern/nodemiral": "^1.4.1",
     "archiver": "3.0.x",
     "async": "^3.0.0",
     "cjson": "0.5.x",
